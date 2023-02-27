@@ -1,0 +1,6 @@
+__pycashe__/
+*.pyc
+/evn/
+/vevn/
+.idea/
+.env
